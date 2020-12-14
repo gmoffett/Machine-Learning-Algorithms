@@ -8,7 +8,7 @@ This repository serves as a place to showcase various machine learning algorithm
   - K-Nearest Neighbors (classification)
   - Linear Regression (prediction)
   - Logistic Regression (classification)
-  - Deep Learningn (classification)
+  - Deep Learning (classification)
   - Decision Trees (prediction)
   - Regression Trees (prediction)
 - Unsupervised Learning
